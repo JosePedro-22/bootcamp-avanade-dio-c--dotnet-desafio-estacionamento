@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+bAZtC78O3I=",
+  "success": true,
+  "projectFilePath": "/Users/Macbook-Pro/Documents/Avanade_Back-end_.NET_e_IA/trilha-net-fundamentos-desafio/DesafioFundamentos/DesafioFundamentos.csproj",
+  "expectedPackageFiles": [
+    "/Users/Macbook-Pro/.nuget/packages/microsoft.netcore.app.ref/6.0.35/microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "/Users/Macbook-Pro/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.35/microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "/Users/Macbook-Pro/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.35/microsoft.netcore.app.host.osx-arm64.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}
